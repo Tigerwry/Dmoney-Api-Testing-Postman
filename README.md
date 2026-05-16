@@ -41,3 +41,32 @@ To review the detailed test planning, execution logs, and live tracking sheets, 
     > *Interactive schema visualization featuring request bodies, authentication tokens, and mock response validation layers.*
 *   **📊 Test Cases & Bug Report Sheet:** [Access Excel QA Artifacts on Google Drive](https://docs.google.com/spreadsheets/d/1VvECVtzLRhYOCI5w9wVFYiSa_amjrFP-Hr8d6QQze4I/edit?usp=sharing)
     > *Comprehensive Excel sheet documenting all API Test Cases mapped directly according to their Postman endpoint paths, along with a dedicated log of all identified bugs and defects discovered during testing.*
+
+---
+
+### 📊 Automated Test Execution Dashboard (Newman HTML Report)
+
+To maintain transparent QA metrics, automated Newman HTML reports are generated at the end of each local execution cycle. Below is the visualization dashboard summarizing the total assertion count, timings, and defect breakdown metrics:
+
+
+<img width="859" height="873" alt="Screenshot from 2026-05-16 13-59-36" src="https://github.com/user-attachments/assets/a57ca154-a132-4336-b01c-1d1455897338" />
+
+
+#### 📝 Automation Run Insights:
+* **Total API Requests Dispatched:** 45 Fully automated end-to-end integration cycles.
+* **Total Test Scripts / Assertions Run:** 55 Validation layers covering status codes, double-entry schemas, and strict headers.
+* **Defect Count Discovered:** 4 Active functional assertion failures (Logged inside the Excel Bug Sheet for fix cycles).
+* **Average Response Performance Limit:** 105ms (Ensures fast response latency bounds compliance).
+
+---
+
+## 🎯 Thank You for Visiting!
+
+Thank you so much for taking the time to review my **dMoney MFS API Integration Testing** project! 
+
+Building and automating this framework has been an incredible learning journey, bridging the gap between core fintech infrastructure logic and rigid software quality assurance practices.
+
+* If you find this repository helpful, feel free to **⭐ Star** this repository to show your support!
+* Have feedback, queries, or ideas for improvements? Let's connect and discuss on [LinkedIn](https://www.linkedin.com/in/md-rahad-mahmud-1b1464208/).
+
+***Happy Testing! 🚀***
